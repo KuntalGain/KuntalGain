@@ -1,3 +1,5 @@
+![banner](https://github.com/KuntalGain/KuntalGain/assets/101191826/60e6163c-c0e3-48d3-acda-70c96adeff66)
+
 <h1 align="center">Hi 👋, I'm Kuntal Gain</h1>
 <h3 align="center">A passionate Mobile Application developer from India</h3>
 
@@ -8,6 +10,7 @@
 - 🔭 I’m currently working on [SocialSeed](https://github.com/KuntalGain/Socialseed)
 
 - 🌱 I’m currently learning **Advanced Flutter , REST API , Firebase**
+
 
 - 👨‍💻 All of my projects are available at [https://kuntal-gain.vercel.app/](https://kuntal-gain.vercel.app/)
 
