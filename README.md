@@ -1,4 +1,5 @@
-![banner](https://github.com/KuntalGain/KuntalGain/assets/101191826/60e6163c-c0e3-48d3-acda-70c96adeff66)
+![banner](https://github.com/KuntalGain/KuntalGain/assets/101191826/02c094a6-5083-4aad-b79a-3735276326bf)
+
 
 <h1 align="center">Hi 👋, I'm Kuntal Gain</h1>
 <h3 align="center">A passionate Mobile Application developer from India</h3>
